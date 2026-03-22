@@ -10,6 +10,7 @@ Indice de todos los conceptos estudiados, organizados por categoria. Todos los m
 ## Categorias
 
 ### Preprocesamiento
+- [Obtencion de Datos: fuentes, APIs, sensores, LLMs, ETL](./Preprocesamiento/obtencion-datos-fuentes.ipynb) - _2026-03-23_
 - [Guia Completa de Limpieza y Preprocesamiento de Datos](./Preprocesamiento/limpieza-datos-completa.ipynb) - _2026-03-22_
 - [Ejercicios: Limpieza de Datos (30 ejercicios)](./Preprocesamiento/ejercicios-limpieza-datos.ipynb) - _2026-03-22_
 - [Escalado y normalizacion de datos en ML](./Preprocesamiento/escalado-normalizacion-datos.ipynb) - _2026-03-20_
