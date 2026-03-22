@@ -16,3 +16,5 @@ google-cloud-bigquery>=3.11
 pandas-gbq>=0.19
 db-dtypes>=1.1
 pyarrow>=14.0
+tensorflow>=2.15
+keras>=3.0

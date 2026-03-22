@@ -1,71 +1,78 @@
 # Ciencia de Datos — Portfolio de Aprendizaje
 
-Portfolio completo de proyectos de Ciencia de Datos y Machine Learning, desde fundamentos hasta modelos de producción. Incluye 67+ notebooks con datos reales, fórmulas estadísticas y modelos de clasificación médica.
+Portfolio completo de proyectos de Ciencia de Datos y Machine Learning. Incluye proyectos con datos reales, formulario estadistico completo, guias de ML/Deep Learning, y notebooks de ejercicios interactivos.
+
+---
+
+## Material de Estudio
+
+### Formulario Estadistico Completo
+
+Referencia con todas las formulas estadisticas: combinatoria, distribuciones, intervalos de confianza, tests de hipotesis, regresion, clustering y mas. Con visualizaciones y ejemplos numericos paso a paso.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/00_formulario_estadistico.ipynb) `docs/00_formulario_estadistico.ipynb`
+
+### Notebooks de Ejercicios
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Combinatoria y Probabilidad | `ejercicios-combinatoria.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/ejercicios-combinatoria.ipynb) |
+| Esperanza y Varianza | `ejercicios-esperanza-varianza.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/ejercicios-esperanza-varianza.ipynb) |
+| Distribuciones Discretas | `ejercicios-distribuciones-discretas.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/ejercicios-distribuciones-discretas.ipynb) |
+| Distribuciones Continuas | `ejercicios-distribuciones-continuas.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/ejercicios-distribuciones-continuas.ipynb) |
+| Intervalos de Confianza y Tests | `ejercicios-intervalos-hipotesis.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/ejercicios-intervalos-hipotesis.ipynb) |
+| Prueba Chi-cuadrado | `prueba-chi-cuadrado.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Estadistica/prueba-chi-cuadrado.ipynb) |
+
+### Guias de ML y Deep Learning
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Guia Completa de Algoritmos ML | `guia-completa-algoritmos-ml.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/guia-completa-algoritmos-ml.ipynb) |
+| Regresion Multiple y Gradient Descent | `regresion-multiple-gradient-descent.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/regresion-multiple-gradient-descent.ipynb) |
+| Bias, Varianza y Ruido | `bias-varianza-ruido-techo-rendimiento.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/bias-varianza-ruido-techo-rendimiento.ipynb) |
+| Teoria de la Informacion | `teoria-informacion-entropia-cross-entropy.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/teoria-informacion-entropia-cross-entropy.ipynb) |
+| LSTM: Como Funciona Por Dentro | `lstm-redes-recurrentes.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/lstm-redes-recurrentes.ipynb) |
+| Transformers vs LSTM | `transformers-vs-lstm-attention.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/transformers-vs-lstm-attention.ipynb) |
+| Estructuras de Datos para ML | `estructuras-datos-algoritmos-ml.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Teoria-ML/estructuras-datos-algoritmos-ml.ipynb) |
+| Escalado y Normalizacion | `escalado-normalizacion-datos.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/docs/Learning/Preprocesamiento/escalado-normalizacion-datos.ipynb) |
 
 ---
 
 ## Proyectos
 
-### 1. Telemetría Vehicular (Datos Simulados)
-**31 notebooks** | `notebooks/telemetria_vehicular/`
+### 1. Mantenimiento Predictivo — NASA C-MAPSS FD001
+**6 notebooks** | `notebooks/CMAP/FD001/`
 
-Proyecto fundacional de DS con datos simulados de flotas vehiculares. Cubre todo el pipeline desde NumPy/Pandas hasta modelos de ML y series temporales.
+Prediccion de Vida Util Restante (RUL) de motores de avion con el dataset NASA C-MAPSS. Pipeline completo: ingesta, EDA, feature engineering, modelos clasicos (RF, XGBoost, SVR) y LSTM con GPU.
 
-| Fase | Tema | Notebooks |
-|------|------|-----------|
-| 1 | Fundamentos (NumPy, Pandas, simulación) | 5 |
-| 2 | EDA y Visualización | 6 |
-| 3 | Estadística Inferencial | 5 |
-| 4 | ML Supervisado | 5 |
-| 5 | No Supervisado + Series Temporales | 5 |
-| 6 | Síntesis y Producción | 5 |
+| Notebook | Mision | Mejor RMSE |
+|----------|--------|------------|
+| 01 | Ingesta y calculo del RUL (piecewise linear, cap=130) | — |
+| 02 | EDA de sensores: cuales capturan degradacion | — |
+| 03 | Feature engineering: rolling stats, tendencias, normalizacion | — |
+| 04 | Modelos clasicos: LR, RF, XGBoost, SVR | 18.70 (RF) |
+| 05 | LSTM con GPU (TensorFlow) | 14.06 |
+| 06 | Evaluacion: NASA Score, sistema de alertas verde/amarillo/rojo | — |
 
-### 2. NYC Taxi Trips (BigQuery — Datos Reales)
-**26 notebooks** | `notebooks/nyc_taxi/`
-
-Análisis de ~146M viajes de taxi amarillo en NYC (2015) usando Google BigQuery. Incluye conexión directa a BigQuery con cache local y estimación de costos.
-
-| Fase | Tema | Notebooks |
-|------|------|-----------|
-| 1 | Fundamentos + BigQuery | 3 |
-| 2 | EDA y Visualización | 6 |
-| 3 | Estadística Inferencial | 5 |
-| 4 | ML Supervisado | 6 |
-| 5 | No Supervisado + Series Temporales | 6 |
-| 6 | Síntesis y Producción | 4 |
-
-**Requiere:** Cuenta de Google Cloud (ver [Setup BigQuery](#setup-bigquery))
-
-### 3. Breast Cancer Classification (ML Médico)
-**5 notebooks** | `notebooks/breast_cancer/`
-
-Clasificación binaria de tumores mamarios (maligno/benigno) usando el dataset Wisconsin Breast Cancer (569 muestras, 30 features).
-
-| Notebook | Misión |
-|----------|--------|
-| 01 | EDA: distribuciones, correlaciones, features redundantes |
-| 02 | Preprocesamiento: scaling, selección de features |
-| 03 | Baseline: Logistic Regression, Random Forest, XGBoost |
-| 04 | Autopsia: análisis de Falsos Negativos |
-| 05 | Optimización: umbral, ROC, costo médico FN vs FP |
-
-### 4. Stroke Prediction (ML con Desbalance Extremo)
+### 2. Stroke Prediction (ML con Desbalance Extremo)
 **5 notebooks** | `notebooks/stroke_prediction/`
 
-Predicción de ictus cerebral con desbalance severo (95% negativo, 5% positivo). Incluye SMOTE, encoding categórico y optimización de umbral para contexto médico.
+Prediccion de ictus cerebral con desbalance severo (95% negativo, 5% positivo). SMOTE, optimizacion de umbral y modelo de costes para contexto medico. Recall final: 98%.
 
-| Notebook | Misión |
-|----------|--------|
-| 01 | EDA: factores de riesgo, desbalance de clases |
-| 02 | Preprocesamiento: imputación BMI, encoding categóricas |
-| 03 | Baseline: SMOTE, class_weight, comparación 6 modelos |
-| 04 | Autopsia: perfil de FN, error por edad/hipertensión |
-| 05 | Optimización: umbral, costo FN=200×, modelo final |
+### 3. Telemetria Vehicular (Datos Simulados)
+**31 notebooks** | `notebooks/telemetria_vehicular/`
 
-### 5. Formulario Estadístico
-**1 notebook** | `notebooks/nyc_taxi/00_formulario_estadistico.ipynb`
+Proyecto fundacional de DS con datos simulados de flotas vehiculares. Cubre desde NumPy/Pandas hasta ML y series temporales.
 
-Referencia completa con todas las fórmulas estadísticas: tabla maestra, teoría detallada con origen histórico, visualizaciones y ejemplos numéricos paso a paso.
+### 4. NYC Taxi Trips (BigQuery — Datos Reales)
+**26 notebooks** | `notebooks/nyc_taxi/`
+
+Analisis de ~146M viajes de taxi en NYC (2015) usando Google BigQuery.
+
+### 5. Breast Cancer Classification (ML Medico)
+**5 notebooks** | `notebooks/breast_cancer/`
+
+Clasificacion binaria de tumores mamarios (maligno/benigno) con el dataset Wisconsin.
 
 ---
 
@@ -74,111 +81,67 @@ Referencia completa con todas las fórmulas estadísticas: tabla maestra, teorí
 ```
 Ciencia_Datos/
 ├── notebooks/
-│   ├── telemetria_vehicular/     # 31 notebooks (datos simulados)
-│   │   └── phase1-6/
-│   ├── nyc_taxi/                 # 26 notebooks + formulario (BigQuery)
-│   │   ├── 00_formulario_estadistico.ipynb
-│   │   └── phase1-6/
-│   ├── breast_cancer/            # 5 notebooks (clasificación binaria)
-│   └── stroke_prediction/        # 5 notebooks (desbalance + SMOTE)
-├── src/
-│   └── bigquery/
-│       └── bq_helper.py          # Helper BigQuery con cache
-├── data/
-│   ├── breast_cancer/            # Dataset Wisconsin + procesados
-│   ├── heart_attack/             # Dataset Stroke + procesados
-│   └── nyc_taxi/cache/           # Cache de queries BigQuery
-├── models/                       # Modelos entrenados (.pkl)
+│   ├── CMAP/FD001/                # Mantenimiento predictivo NASA (6 notebooks)
+│   ├── stroke_prediction/         # Prediccion de ictus (5 notebooks)
+│   ├── telemetria_vehicular/      # Telemetria vehicular (31 notebooks)
+│   ├── nyc_taxi/                  # NYC Taxi BigQuery (26 notebooks)
+│   └── breast_cancer/             # Cancer de mama (5 notebooks)
 ├── docs/
-│   ├── concept_index.md          # Índice de todos los conceptos
-│   └── mlops_reference/          # Referencia MLOps
+│   ├── 00_formulario_estadistico.ipynb  # Formulario completo
+│   ├── essential_commands.ipynb         # Referencia de comandos
+│   └── Learning/
+│       ├── Teoria-ML/             # Guias de ML/DL (8 notebooks)
+│       ├── Estadistica/           # Ejercicios de estadistica (6 notebooks)
+│       ├── Preprocesamiento/      # Escalado y normalizacion
+│       └── MLOps/                 # Referencia MLOps (9 notebooks)
+├── data/                          # Datasets
+├── models/                        # Modelos entrenados
 ├── requirements.txt
-└── setup.sh                      # Script de instalación
+└── setup_nvidia_system.sh         # Setup CUDA/GPU
 ```
 
 ---
 
-## Instalación Rápida
-
-### Opción 1: Script automático
+## Instalacion
 
 ```bash
 git clone https://github.com/DanielMf31/Ciencia_Datos.git
 cd Ciencia_Datos
-chmod +x setup.sh
-./setup.sh
-```
-
-### Opción 2: Manual
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/DanielMf31/Ciencia_Datos.git
-cd Ciencia_Datos
-
-# 2. Crear entorno virtual
 python3 -m venv .venv
 source .venv/bin/activate
-
-# 3. Instalar dependencias
 pip install -r requirements.txt
-
-# 4. Abrir JupyterLab
 jupyter lab
 ```
 
-### Setup BigQuery (solo para NYC Taxi)
-
-Los notebooks de NYC Taxi requieren acceso a Google BigQuery (tier gratuito: 1TB/mes):
+### GPU (opcional, para LSTM)
 
 ```bash
-# 1. Instalar Google Cloud CLI
-# https://cloud.google.com/sdk/docs/install
-
-# 2. Autenticarse
-gcloud auth login
-gcloud auth application-default login
-
-# 3. Habilitar la API de BigQuery en tu proyecto
-# https://console.cloud.google.com/apis/api/bigquery.googleapis.com
+sudo bash setup_nvidia_system.sh        # Instala driver + CUDA + cuDNN
+sudo reboot
+bash setup_nvidia_system.sh --post-reboot  # Configura TensorFlow
 ```
 
 ---
 
-## Tecnologías Utilizadas
+## Tecnologias
 
-| Categoría | Herramientas |
+| Categoria | Herramientas |
 |-----------|-------------|
-| **Lenguaje** | Python 3.12 |
-| **Data** | NumPy, Pandas, PyArrow |
-| **Visualización** | Matplotlib, Seaborn, Plotly, Folium |
-| **Estadística** | SciPy, Statsmodels |
-| **Machine Learning** | Scikit-learn, XGBoost, imbalanced-learn |
-| **Series Temporales** | Prophet, ARIMA/SARIMA |
-| **Cloud** | Google BigQuery |
-| **Notebooks** | JupyterLab |
-
----
-
-## Conceptos Cubiertos
-
-- **Fundamentos:** NumPy, Pandas, SQL, BigQuery, limpieza de datos
-- **Visualización:** matplotlib, seaborn, Plotly, Folium, dashboards interactivos
-- **Estadística:** distribuciones, tests de hipótesis, intervalos de confianza, correlaciones
-- **ML Supervisado:** regresión, clasificación, feature engineering, GridSearchCV
-- **ML No Supervisado:** K-Means, DBSCAN, PCA, t-SNE
-- **Series Temporales:** descomposición, ARIMA, SARIMA, Prophet
-- **Detección de Anomalías:** z-score, IQR, Isolation Forest
-- **ML Médico:** desbalance de clases, SMOTE, optimización de umbral, análisis de costo FN/FP
-- **MLOps:** pipelines, monitoreo, despliegue en GCP
-
-Ver el índice completo en [`docs/concept_index.md`](docs/concept_index.md).
+| Lenguaje | Python 3.12 |
+| Data | NumPy, Pandas, PyArrow |
+| Visualizacion | Matplotlib, Seaborn, Plotly |
+| Estadistica | SciPy, Statsmodels |
+| ML | Scikit-learn, XGBoost |
+| Deep Learning | TensorFlow, Keras |
+| Cloud | Google BigQuery |
+| GPU | CUDA 12, cuDNN, NVIDIA RTX |
 
 ---
 
 ## Licencia
 
-Este proyecto es de uso educativo. Los datasets utilizados son públicos:
-- [NYC Taxi Trips](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=new_york_taxi_trips) (BigQuery Public Datasets)
-- [Wisconsin Breast Cancer](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) (UCI ML Repository)
+Uso educativo. Datasets publicos:
+- [NASA C-MAPSS](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/xaut-bemq) (NASA Open Data)
+- [NYC Taxi Trips](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=new_york_taxi_trips) (BigQuery)
+- [Wisconsin Breast Cancer](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) (UCI)
 - [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) (Kaggle)
