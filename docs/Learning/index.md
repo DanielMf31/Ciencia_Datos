@@ -31,6 +31,9 @@ Indice de todos los conceptos estudiados, organizados por categoria. Todos los m
 - [Ejercicios: Distribuciones Continuas](./Estadistica/ejercicios-distribuciones-continuas.ipynb) - _2026-03-22_
 - [Ejercicios: Intervalos de Confianza y Tests de Hipotesis](./Estadistica/ejercicios-intervalos-hipotesis.ipynb) - _2026-03-22_
 
+### Seguridad Informatica
+- [Panorama de Seguridad Informatica: 8 disciplinas, tecnicas y curiosidades](./Seguridad-Informatica/panorama-seguridad-informatica.ipynb) - _2026-03-22_
+
 ### MLOps
 - [MLOps Overview: ciclo de vida, madurez, componentes del stack](./MLOps/00_mlops_overview.ipynb) - _2026-03-21_
 - [Apache Kafka: streaming de datos con Python](./MLOps/01_kafka.ipynb) - _2026-03-21_
