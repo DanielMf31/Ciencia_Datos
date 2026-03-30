@@ -46,11 +46,11 @@ Notebooks completos con teoria, formulas, diagramas de circuitos, graficas gener
 
 | Tema | Notebook | Colab |
 |------|----------|-------|
-| Tema 4 - Transistor BJT | `01_transistor_bjt.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/01_transistor_bjt.ipynb) |
-| Tema 5 - Transistor FET (MOSFET/JFET) | `02_transistor_fet.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/02_transistor_fet.ipynb) |
-| Temas 6+7 - Amplificacion y OPAM | `03_amplificacion_opam.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/03_amplificacion_opam.ipynb) |
-| Tema 8 - Modelos de pequena senal | `04_modelos_pequena_senal.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/04_modelos_pequena_senal.ipynb) |
-| Temas 2+3 - Diodo y aplicaciones | `05_diodo_y_aplicaciones.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/05_diodo_y_aplicaciones.ipynb) |
+| Temas 2+3 - Diodo y aplicaciones | `01_diodo_y_aplicaciones.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/01_diodo_y_aplicaciones.ipynb) |
+| Tema 4 - Transistor BJT | `02_transistor_bjt.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/02_transistor_bjt.ipynb) |
+| Tema 5 - Transistor FET (MOSFET/JFET) | `03_transistor_fet.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/03_transistor_fet.ipynb) |
+| Temas 6+7 - Amplificacion y OPAM | `04_amplificacion_opam.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/04_amplificacion_opam.ipynb) |
+| Tema 8 - Modelos de pequena senal | `05_modelos_pequena_senal.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/05_modelos_pequena_senal.ipynb) |
 
 ### Teoria de Circuitos
 
