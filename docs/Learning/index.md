@@ -46,6 +46,9 @@ Indice de todos los conceptos estudiados, organizados por categoria. Todos los m
 - [Airflow + Spark + BD: estrategia de procesamiento](./MLOps/07_airflow_spark_bd_estrategia.ipynb) - _2026-03-21_
 - [BigQuery: base de datos serverless](./MLOps/08_bigquery.ipynb) - _2026-03-21_
 
+### Electronica
+- [Truco RB/RC vs beta para determinar estado del BJT](./Electronica/truco-rb-rc-beta-estado-bjt.ipynb) - _2026-03-29_
+
 ---
 
-_Ultima actualizacion: 2026-03-22_
+_Ultima actualizacion: 2026-03-29_

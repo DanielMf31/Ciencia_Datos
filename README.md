@@ -38,6 +38,45 @@ Referencia con todas las formulas estadisticas: combinatoria, distribuciones, in
 
 ---
 
+## Apuntes de Carrera (2o GIERM)
+
+Notebooks completos con teoria, formulas, diagramas de circuitos, graficas generadas con Python, ejercicios resueltos paso a paso, y catalogo de tipos de ejercicios para cada tema.
+
+### Fundamentos de Electronica
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Tema 4 - Transistor BJT | `01_transistor_bjt.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/01_transistor_bjt.ipynb) |
+| Tema 5 - Transistor FET (MOSFET/JFET) | `02_transistor_fet.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/02_transistor_fet.ipynb) |
+| Temas 6+7 - Amplificacion y OPAM | `03_amplificacion_opam.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/03_amplificacion_opam.ipynb) |
+| Tema 8 - Modelos de pequena senal | `04_modelos_pequena_senal.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/04_modelos_pequena_senal.ipynb) |
+| Temas 2+3 - Diodo y aplicaciones | `05_diodo_y_aplicaciones.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Electronica/05_diodo_y_aplicaciones.ipynb) |
+
+### Teoria de Circuitos
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Tema 1 - Introduccion (Kirchhoff, potencia) | `01_introduccion.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/01_introduccion.ipynb) |
+| Tema 2 - Circuitos resistivos | `02_circuitos_resistivos.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/02_circuitos_resistivos.ipynb) |
+| Tema 3 - Fuentes reales, Thevenin/Norton | `03_fuentes_reales_thevenin.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/03_fuentes_reales_thevenin.ipynb) |
+| Tema 4 - Ecuaciones de nudos y mallas | `04_ecuaciones_nudos_mallas.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/04_ecuaciones_nudos_mallas.ipynb) |
+| Tema 5 - Componentes dinamicos (C, L) | `05_componentes_dinamicos.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/05_componentes_dinamicos.ipynb) |
+| Tema 6 - Corriente continua (transitorios) | `06_circuitos_corriente_continua.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/06_circuitos_corriente_continua.ipynb) |
+| Tema 7 - Corriente alterna (fasores) | `07_corriente_alterna.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/07_corriente_alterna.ipynb) |
+| Temas 8+9 - Potencia CA y trifasicos | `08_potencia_y_trifasicos.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Teoria_Circuitos/08_potencia_y_trifasicos.ipynb) |
+
+### Ampliacion de Matematicas
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Leccion 2 - Transformada de Laplace | `01_transformada_laplace.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/01_transformada_laplace.ipynb) |
+| Leccion 3 - Sistemas de EDOs lineales | `02_sistemas_edo.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/02_sistemas_edo.ipynb) |
+| Lecciones 3-4 - Series de Fourier | `03_series_fourier.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/03_series_fourier.ipynb) |
+| Leccion 5 - Ecuaciones en derivadas parciales | `04_ecuaciones_derivadas_parciales.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/04_ecuaciones_derivadas_parciales.ipynb) |
+| Tabla de integrales para EDPs y Fourier | `05_tabla_integrales_edp.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/05_tabla_integrales_edp.ipynb) |
+
+---
+
 ## Proyectos
 
 ### 1. Mantenimiento Predictivo — NASA C-MAPSS FD001
@@ -81,6 +120,10 @@ Clasificacion binaria de tumores mamarios (maligno/benigno) con el dataset Wisco
 ```
 Ciencia_Datos/
 ├── notebooks/
+│   ├── Carrera/
+│   │   ├── Fundamentos_Electronica/  # 5 notebooks (BJT, FET, OPAM, PS, Diodo)
+│   │   ├── Teoria_Circuitos/         # 8 notebooks (Kirchhoff a trifasicos)
+│   │   └── Ampliacion_Matematicas/   # 5 notebooks (Laplace, EDOs, Fourier, EDP)
 │   ├── CMAP/FD001/                # Mantenimiento predictivo NASA (6 notebooks)
 │   ├── stroke_prediction/         # Prediccion de ictus (5 notebooks)
 │   ├── telemetria_vehicular/      # Telemetria vehicular (31 notebooks)
