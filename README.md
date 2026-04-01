@@ -75,6 +75,20 @@ Notebooks completos con teoria, formulas, diagramas de circuitos, graficas gener
 | Leccion 5 - Ecuaciones en derivadas parciales | `04_ecuaciones_derivadas_parciales.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/04_ecuaciones_derivadas_parciales.ipynb) |
 | Tabla de integrales para EDPs y Fourier | `05_tabla_integrales_edp.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Ampliacion_Matematicas/05_tabla_integrales_edp.ipynb) |
 
+### Fundamentos de Control
+
+| Tema | Notebook | Colab |
+|------|----------|-------|
+| Tema 1 - Sistemas de control automatico | `01_sistemas_control.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/01_sistemas_control.ipynb) |
+| Tema 2 - Descripcion de sistemas dinamicos | `02_descripcion_sistemas.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/02_descripcion_sistemas.ipynb) |
+| Tema 3 - Respuesta temporal | `03_respuesta_temporal.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/03_respuesta_temporal.ipynb) |
+| Tema 4 - Respuesta frecuencial (Bode, Nyquist) | `04_respuesta_frecuencial.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/04_respuesta_frecuencial.ipynb) |
+| Tema 5 - Modelado y simulacion | `05_modelado_simulacion.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/05_modelado_simulacion.ipynb) |
+| Tema 6 - Sistemas realimentados | `06_sistemas_realimentados.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/06_sistemas_realimentados.ipynb) |
+| Tema 7 - Control PID | `07_control_pid.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/07_control_pid.ipynb) |
+| Tema 8 - Diseno analitico de controladores | `08_diseno_analitico.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/08_diseno_analitico.ipynb) |
+| Tema 9 - Diseno en dominio frecuencial | `09_diseno_frecuencial.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMf31/Ciencia_Datos/blob/main/notebooks/Carrera/Fundamentos_Control/09_diseno_frecuencial.ipynb) |
+
 ---
 
 ## Proyectos
@@ -121,9 +135,10 @@ Clasificacion binaria de tumores mamarios (maligno/benigno) con el dataset Wisco
 Ciencia_Datos/
 ├── notebooks/
 │   ├── Carrera/
-│   │   ├── Fundamentos_Electronica/  # 5 notebooks (BJT, FET, OPAM, PS, Diodo)
+│   │   ├── Fundamentos_Electronica/  # 5 notebooks (Diodo, BJT, FET, OPAM, PS)
 │   │   ├── Teoria_Circuitos/         # 8 notebooks (Kirchhoff a trifasicos)
-│   │   └── Ampliacion_Matematicas/   # 5 notebooks (Laplace, EDOs, Fourier, EDP)
+│   │   ├── Ampliacion_Matematicas/   # 5 notebooks (Laplace, EDOs, Fourier, EDP)
+│   │   └── Fundamentos_Control/      # 9 notebooks (Sistemas, Bode, PID, Nyquist)
 │   ├── CMAP/FD001/                # Mantenimiento predictivo NASA (6 notebooks)
 │   ├── stroke_prediction/         # Prediccion de ictus (5 notebooks)
 │   ├── telemetria_vehicular/      # Telemetria vehicular (31 notebooks)

@@ -46,9 +46,14 @@ Indice de todos los conceptos estudiados, organizados por categoria. Todos los m
 - [Airflow + Spark + BD: estrategia de procesamiento](./MLOps/07_airflow_spark_bd_estrategia.ipynb) - _2026-03-21_
 - [BigQuery: base de datos serverless](./MLOps/08_bigquery.ipynb) - _2026-03-21_
 
+### Metodologia de Estudio
+- [Aprendizaje Top-Down vs Bottom-Up: enfoque sandwich + guia tecnica de notebooks](./Metodologia-Estudio/aprendizaje-top-down-vs-bottom-up.ipynb) - _2026-03-31_ (actualizado: estructura estandar, patron Mecanismos 8 notebooks, guia generacion programatica, paleta colores, convencion nombrado)
+
 ### Electronica
+- [Por que cambian las referencias en PNP: explicacion fisica (VEB, VEC, corrientes)](./Electronica/pnp-referencias-tension-explicacion-fisica.ipynb) - _2026-03-30_
 - [Truco RB/RC vs beta para determinar estado del BJT](./Electronica/truco-rb-rc-beta-estado-bjt.ipynb) - _2026-03-29_
 
 ---
 
-_Ultima actualizacion: 2026-03-29_
+_Ultima actualizacion: 2026-03-31_
+
